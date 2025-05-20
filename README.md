@@ -1,9 +1,7 @@
 # Sankey Diagram
 
 **Author:** Dao Bui  
-**Course:** Python for Scientist  
-**Date Due:** 05/16/2025  
-**Date Submitted:** 05/20/2025
+**Date Created:** 05/20/2025  
 
 ## 📌 Description
 
@@ -85,6 +83,3 @@ Industrial, 100
 
 ---
 
-## 📜 License
-
-This project was created for educational use in the course *Python for Scientist*. Please contact the author for reuse or modifications.
